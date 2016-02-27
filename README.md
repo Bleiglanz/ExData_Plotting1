@@ -1,3 +1,13 @@
+
+
+## Note:
+
+This graphics were produced on a LOCALE=DE system, so the Days
+of the week are Do, Fr, Sa
+
+Although this could be corrected using xaxis - I didn't do it 
+because this would be extra work for non-English students.
+
 ## Introduction
 
 This assignment uses data from
